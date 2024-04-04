@@ -12,6 +12,10 @@ pip install plotly_express
 pip install streamlit
 ```
 
+## App url
+
+https://vehicles-us-9y2z.onrender.com
+
 ## Usage
 
 Use the checkbox to select the graphic you want to visualize.
