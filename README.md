@@ -14,8 +14,11 @@ pip install streamlit
 
 ## Usage
 
-```TODO
-```
+Use the checkbox to select the graphic you want to visualize.
+
+For histogram, use the select box to select the variable you want to graph.
+Note: Only continuous variables are available
+
 
 ## Contributing
 
